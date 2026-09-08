@@ -1,2 +1,2 @@
-# TrabalhodeGraduacao
-Desenvolvimento do meu projeto de graduação, voltada para análise biomecânica com o uso de visão computacional, inteligência artificial e análise de dados.
+# UndergraduateThesis
+Development of my undergraduate project, focused on biomechanical analysis using computer vision, artificial intelligence, and data analysis.
