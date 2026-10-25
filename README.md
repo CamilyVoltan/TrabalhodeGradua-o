@@ -1,2 +1,2 @@
-# UndergraduateThesis
-Development of my undergraduate project, focused on biomechanical analysis using computer vision, artificial intelligence, and data analysis.
+# Trabalho de Conclusão de Curso
+Desenvolvimento do meu projeto de graduação, focado em análise biomecânica por meio de visão computacional, inteligência artificial e análise de dados.
